@@ -20,10 +20,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  dio: ^5.4.0
+  dio: ^5.4.1
   cupertino_http: ^1.0.0
   cronet_http_embedded: ^0.4.2
-  http: ^1.0.0
+  http: ^1.2.1
 
 dev_dependencies:
   lints: ^2.0.0
